@@ -94,7 +94,7 @@ footer {
     padding: 10px;
 }
 
-/* Responsive for mobile */
+/* Mobile responsive */
 @media (max-width: 600px) {
     .gallery img, .cake-card {
         width: 80%;
